@@ -20,7 +20,8 @@ Welcome to my Data Science portfolio! This page contains links to samples of my 
     - **Skills**: Exploratory data analysis (EDA), Data visualization
 
 3. *Nova Scotia Ocean Temperature Dashboard*
-    - https://2fzjfm-scottie-szewczyk.shinyapps.io/ocean_temp_dashboard/
+    - **Dashboard**: https://2fzjfm-scottie-szewczyk.shinyapps.io/ocean_temp_dashboard/
+    - **Code**: https://github.com/sszew/ocean_temperature_dashboard
     - This interactive Shiny dashboard visualizes ocean temperatures off the coast of Nova Scotia.
     - **Technology**: R, Shiny
     - **Skills**: Data visualization, Dashboard, Shiny app
