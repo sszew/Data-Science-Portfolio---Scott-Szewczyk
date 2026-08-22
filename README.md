@@ -7,9 +7,9 @@ Welcome to my Data Science portfolio! This page contains links to samples of my 
 
 1. Predicting Heart Disease Using Machine Learning
    - https://github.com/sszew/heart_disease_machine_learning
-   -In this project, I develop and evaluate logistic regression and random forest models to predict the presence of heart disease.
-   -**Technology**: Python
-   -**Skills**: Machine learning, Logistic regression, Random forest, Statistical modeling, Statistical reasoning, Exploratory data analysis (EDA)
+   - In this project, I develop and evaluate logistic regression and random forest models to predict the presence of heart disease.
+   - **Technology**: Python
+   - **Skills**: Machine learning, Logistic regression, Random forest, Statistical modeling, Statistical reasoning, Exploratory data analysis (EDA)
    
 2. *Modeling U.S. County-level Cancer Mortality Rates: an Ordinary Least Squares (OLS) Linear Regression Model*
    - https://github.com/sszew/Linear-Regression
