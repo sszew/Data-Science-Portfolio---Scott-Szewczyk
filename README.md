@@ -5,7 +5,7 @@ Welcome to my Data Science portfolio! This page contains links to samples of my 
 
 ## Projects
 
-1. Predicting Heart Disease Using Machine Learning
+1. *Developing a Heart Disease Prediction Model (UCI Heart Disease Dataset)*
    - https://github.com/sszew/heart_disease_machine_learning
    - In this project, I develop and evaluate logistic regression and random forest models to predict the presence of heart disease.
    - **Technology**: Python
