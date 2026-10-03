@@ -35,6 +35,6 @@ Welcome to my Data Science portfolio! This page contains links to samples of my 
 
 
 If you would like to contact me regarding me work, please feel free to send me an email at scottieszewczyk@gmail.com
-or a message on LinkedIn: https://www.linkedin.com/in/scottie-szewczyk/
+or a message on LinkedIn: [https://www.linkedin.com/in/scott-szewczyk/](https://www.linkedin.com/in/scott-szewczyk/)
 
 
